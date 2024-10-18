@@ -1,8 +1,6 @@
-import "./App.css"
-
 function App() {
   return (
-    <div className="App">
+    <div className="w-[15rem] h-[15rem] bg-green-500">
       Hello World
     </div>
   );
